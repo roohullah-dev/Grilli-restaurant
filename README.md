@@ -4,7 +4,7 @@ Grilli is a fully responsive and elegant restaurant website template designed to
 
 ## 🔗 Live Preview
 
-[Click here to view the live site](https://your-live-site-url.com)  
+[Click here to view the live site](https://roohullah-dev.github.io/Grilli-restaurant/)  
 _(Replace with your actual deployed link)_
 
 ---
